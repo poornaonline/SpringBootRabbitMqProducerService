@@ -1,4 +1,4 @@
-# SpringBoot RabbitMq - Producer Service
+# SpringBoot RabbitMQ - Producer Service
 
 Producer Service - Spring Boot, RabbitMQ
 
